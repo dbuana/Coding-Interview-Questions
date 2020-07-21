@@ -1,6 +1,3 @@
-For GitHub purposes only!
-Or; mainly used as alternative choice, when GitHub does not allow Visual Studio.
-
 # 1). Find the missing number in the array
 import random
 
